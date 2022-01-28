@@ -1,0 +1,1162 @@
+<!DOCTYPE html>
+<!--[if IE 7]> <html lang="es" class="ie ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="es" class="ie ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="es" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="es"> <!--<![endif]-->
+  <head>
+    <!--[if lte ie 8]><script type="text/javascript" src="/fanstatic/vendor/:version:2019-12-02T16:58:12/html5.min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2019-12-02T16:58:12/select2/select2.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/css/:version:2019-12-02T16:58:12/main.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2019-12-02T16:58:12/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/gobar_css/:version:2019-12-02T17:16:31/:bundle:gobar_style.css;table.css" />
+
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.7.6" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+        <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMSJQ8"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KMSJQ8');</script>
+        <!-- End Google Tag Manager -->
+    <meta property="og:url" content="https://datos.gob.ar/">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Datos Argentina">
+    <meta property="og:site_name" content="Datos Argentina">
+    <meta property="og:description" content="Ponemos a tu alcance datos públicos en formatos abiertos. Estos datos son tuyos.">
+    <meta property="og:image" content="https://datos.gob.ar/user_images/datosgobar.jpg">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="2400">
+    <meta property="og:image:height" content="1260">
+    <meta property="og:locale" content="es_AR">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site:id" content="@datosgobar"/>
+    <meta name="twitter:image:src" content="https://datos.gob.ar/user_images/datosgobar.jpg">
+    <meta name="twitter:title" content="Datos Argentina | Museos">
+    <meta name="twitter:description" content="Es una institución permanente, sin fines de lucro, abierta al público, que adquiere, conserva, estudia, exhibe y comunica el patrimonio material e inmaterial de la humanidad y de su ambiente.">
+    <title>
+    Datos Argentina - Museos</title>
+
+    
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    
+        <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '0', 'auto', {});
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+    
+      
+    
+
+    
+      
+      
+    
+    
+  </head>
+
+  
+  <body data-site-root="https://datos.gob.ar/" data-locale-root="https://datos.gob.ar/" >
+
+    
+    <style type="text/css">
+        div.background-overlay{background-color:rgba(0,0,0,0)!important;}
+    </style>
+
+    <div class="footer-down">
+            
+<div id="header" class="container-fluid">
+    <div class="restricted-max-width">
+        <div id="header-spacing" class="col-xs-12 col-sm-10 col-sm-offset-1">
+
+            
+
+            <div class="col-xs-12 col-sm-5 no-padding logo-header">
+                <div class="logo-and-xs-icon">
+                    <i class="icon-reorder fa fa-bars" aria-hidden="true"></i>
+                    <a href="/">
+                        
+                        <img src="/user_images/datosgobar-logo.svg" alt="/" class="logo-ministerio">
+                    </a>
+                    
+                </div>
+                <div class="xs-navbar hidden">
+                    <div class="navbar-link">
+                        <a href="/dataset">
+                            DATASETS
+                        </a>
+                    </div>
+                    <hr>
+                    
+                        <div class="navbar-link">
+                            <a href="/series/api">
+                                SERIES
+                            </a>
+                        </div>
+                    
+                    
+                        <div class="navbar-link">
+                            <a href="/organizaciones">
+                                ORGANIZACIONES
+                            </a>
+                        </div>
+                    
+
+                    
+                        <div class="navbar-link">
+                            <a href="/apis">
+                                APIs
+                            </a>
+                        </div>
+                    
+
+                    
+
+                        
+                            <div class="navbar-link dropdown-navbar-link">
+                                ACERCA
+                            </div>
+                            <div class="about-dropdown dropdown-navbar hidden">
+
+                                
+                                    
+                                        <div class="navbar-link">
+                                            <a href="/acerca/seccion/publica-datos">
+                                                Publicá datos
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="navbar-link">
+                                            <a href="/acerca/seccion/herramientas">
+                                                Herramientas
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="navbar-link">
+                                            <a href="/acerca/seccion/indicadores">
+                                                Indicadores
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="navbar-link">
+                                            <a href="/acerca/seccion/marco-legal">
+                                                Marco legal
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="navbar-link">
+                                            <a href="/acerca/seccion/glosario">
+                                                Glosario
+                                            </a>
+                                        </div>
+                                    
+                                
+
+                            </div>
+                        
+
+                        <hr><div class="navbar-link dropdown-navbar-link">
+                        <span class="username"></span> <svg class="user-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.46 128.46"><path d="M128.46,64.23A63.15,63.15,0,0,0,119.84,32,64.21,64.21,0,0,0,96.48,8.62,63.12,63.12,0,0,0,64.23,0,63.12,63.12,0,0,0,32,8.62,64.2,64.2,0,0,0,8.62,32,63.15,63.15,0,0,0,0,64.23,63.15,63.15,0,0,0,8.62,96.48a64.76,64.76,0,0,0,9.82,12.86l-.16.27a70.09,70.09,0,0,0,9.2,7.34c1.46,1,3,2,4.51,2.91a63.17,63.17,0,0,0,32.25,8.62,63.17,63.17,0,0,0,32.25-8.62,66.19,66.19,0,0,0,7-4.74,72.41,72.41,0,0,0,6.61-5.51l-.14-.23a64.76,64.76,0,0,0,9.85-12.89A63.15,63.15,0,0,0,128.46,64.23Zm-20.52,41.89C101.56,96.56,88,81,66.73,79.8a26.25,26.25,0,0,0,16.88-7.9,26.44,26.44,0,0,0,8-19.41,26.44,26.44,0,0,0-8-19.4,26.42,26.42,0,0,0-19.4-8,26.41,26.41,0,0,0-19.4,8,26.44,26.44,0,0,0-8,19.4,26.44,26.44,0,0,0,8,19.41,26.25,26.25,0,0,0,16.87,7.9C40.48,81,26.88,96.52,20.49,106.09a61.14,61.14,0,0,1-8.66-11.48A59.48,59.48,0,0,1,3.71,64.23a59.48,59.48,0,0,1,8.11-30.37,60.53,60.53,0,0,1,22-22A59.45,59.45,0,0,1,64.23,3.71,59.46,59.46,0,0,1,94.6,11.83a60.54,60.54,0,0,1,22,22,59.48,59.48,0,0,1,8.11,30.37,59.48,59.48,0,0,1-8.11,30.37A61.14,61.14,0,0,1,107.94,106.12Z" style="fill:#0695d6"/></svg>
+                    </div>
+                    <div class="dropdown-navbar hidden">
+                        <div class="navbar-link">
+                            <a href="/configurar/mi_cuenta">
+                                MI CUENTA
+                            </a>
+                        </div><div class="navbar-link">
+                            <a href="https://datosgobar.github.io/portal-andino/quickstart/" target="_blank">
+                                AYUDA
+                            </a>
+                        </div>
+
+                        <div class="navbar-link">
+                            <a href="/logout">
+                                SALIR
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-7 no-padding header-links"><a class="header-link" href="/dataset">Datasets</a><a class="header-link" href="/series/api">Series</a><a class="header-link" href="/organizaciones">Organizaciones</a><a class="header-link" href="/apis">
+                            APIs
+                        </a>
+
+                        
+
+                            <span class="header-link dropdown">
+                                Acerca <span class="caret"></span>
+                                <ul class="about-dropdown" style="bottom:-120px;">
+
+                                    
+                                        
+                                            <a href="/acerca/seccion/publica-datos">
+                                                <li>Publicá datos</li>
+                                            </a>
+                                        
+                                            <a href="/acerca/seccion/herramientas">
+                                                <li>Herramientas</li>
+                                            </a>
+                                        
+                                            <a href="/acerca/seccion/indicadores">
+                                                <li>Indicadores</li>
+                                            </a>
+                                        
+                                            <a href="/acerca/seccion/marco-legal">
+                                                <li>Marco legal</li>
+                                            </a>
+                                        
+                                            <a href="/acerca/seccion/glosario">
+                                                <li>Glosario</li>
+                                            </a>
+                                        
+                                    
+
+                                </ul>
+                            </span>
+                        </div>
+        </div>
+    </div>
+</div>
+        
+
+    <div class="resource-container container-fluid">
+        <div class="restricted-max-width">
+            <div class="resource col-xs-12 col-md-10 col-md-offset-1">
+                <div class="col-md-12 back-to-pkg">
+                    
+                    <a href="/dataset">Datos Argentina</a> / <a href="/dataset/cultura-mapa-cultural-espacios-culturales">Dataset</a> / Recurso
+
+                    
+                    
+                </div>
+                <div class="col-md-10 col-xs-12 title">
+                    <h1>Museos</h1>
+
+                    <p>Es una institución permanente, sin fines de lucro, abierta al público, que adquiere, conserva, estudia, exhibe y comunica el patrimonio material e inmaterial de la humanidad y de su ambiente.</p>
+                </div>
+                <div class="col-md-2 col-xs-12 resource-actions">
+                    <a class="btn btn-green btn-block" href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv">DESCARGAR</a>
+
+                    
+                    
+                        
+                        <a class="btn btn-block btn-outline-primary" href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d" target="_blank">CONSULTAR EN EL<br>PORTAL DE ORIGEN</a>
+                    
+                </div>
+
+                <div class="resource-previsualization hidden-xs hidden-sm" style="display: None">
+                    <div class="resource-additional-info col-xs-12 col-md-12 row"
+                         style="border-bottom: 0; width: 103%; margin-bottom: 20px; margin-top: 30px;">
+                        <h2 class="title-h" style="padding-bottom: 0 !important;">Previsualización</h2>
+                    </div>
+
+                    <div class="data-preview hidden-xs hidden-sm col-md-12">
+                        
+                        
+
+  <ul class="nav nav-tabs nav-tabs-plain" >
+    
+
+  
+  
+  	
+    
+
+
+  
+
+
+<li class="active" data-id="72a6e6e1-da56-419a-a515-f76b35037c46">
+
+  <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d?view_id=72a6e6e1-da56-419a-a515-f76b35037c46" data-id="72a6e6e1-da56-419a-a515-f76b35037c46">
+    <i class="fa icon fa-table"></i>
+    Explorador de Datos
+  </a>
+</li>
+  
+</ul>
+
+                        
+                        
+                        
+                            
+                                
+                                    
+                                        
+
+<div id="view-72a6e6e1-da56-419a-a515-f76b35037c46" class="resource-view" data-id="72a6e6e1-da56-419a-a515-f76b35037c46"
+     data-title="Explorador de Datos" data-description="">
+
+
+    <p class="desc"></p>
+
+    <div class="m-top ckanext-datapreview">
+        
+            <div class="data-viewer-error js-hide">
+                <p class="text-error">
+                    <i class="icon-info-sign"></i>
+                    Esta vista de recurso no está disponible al momento.
+                    <a href="#" data-toggle="collapse" data-target="#data-view-error">
+                        Haga click aquí para más información.
+                    </a>
+                </p>
+
+                <p id="data-view-error" class="collapse"></p>
+
+                <p>
+                    <a href="" class="btn btn-large resource-url-analytics" target="_blank">
+                        <i class="icon-large icon-download"></i>
+                        Descargar recurso
+                    </a>
+                </p>
+            </div>
+            
+                
+                
+                    
+                
+            
+            <iframe src="https://datos.gob.ar/dataset/cultura-mapa-cultural-espacios-culturales/resource/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d/view/72a6e6e1-da56-419a-a515-f76b35037c46" frameborder="0" width="100%" data-module="data-viewer">
+                <p>Su navegador no soporta iframes.</p>
+            </iframe>
+        
+    </div>
+    <div id="embed-72a6e6e1-da56-419a-a515-f76b35037c46" class="modal resource-view-embed" name="embed-modal" style="display: none;">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h3>Incrustar vista de recurso</h3>
+        </div>
+        <div class="modal-body">
+            <p class="embed-content">Puede copiar y pegar el código de inserción en un CMS o blog que soporte HTML crudo</p>
+
+            <div class="row-fluid">
+                <div class="span6">
+                    
+    
+
+    
+    <div class="control-group control-full">
+        <label class="control-label" for="width">Ancho
+        </label>
+        <div class="controls ">
+            
+        <input id="width" type="text" name="width" value="700" maxlength=""
+               placeholder=""  />
+        
+    
+            
+            
+        </div>
+    </div>
+
+
+                </div>
+                <div class="span6">
+                    
+    
+
+    
+    <div class="control-group control-full">
+        <label class="control-label" for="height">Alto
+        </label>
+        <div class="controls ">
+            
+        <input id="height" type="text" name="height" value="400" maxlength=""
+               placeholder=""  />
+        
+    
+            
+            
+        </div>
+    </div>
+
+
+                </div>
+            </div>
+            
+    
+    
+    <div class="control-group pre control-full">
+        <label class="control-label" for="code">Código
+        </label>
+        <div class="controls ">
+            
+        <textarea id="code" name="code" cols="20" rows="6"
+                  placeholder="" ></textarea>
+    
+            
+            
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+
+    <a id="embeber" class="btn pull-right resource-edit-embed-button" href="#embed-72a6e6e1-da56-419a-a515-f76b35037c46" data-module="resource-view-embed"
+       data-module-id="72a6e6e1-da56-419a-a515-f76b35037c46"
+       data-module-resource-id="cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d"
+       data-module-url="https://datos.gob.ar/dataset/cultura-mapa-cultural-espacios-culturales/resource/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d/view/72a6e6e1-da56-419a-a515-f76b35037c46">
+       <i class="icon-code"></i>
+       Embeber
+    </a>
+</div>
+                                    
+                                
+                            
+                        
+                    </div>
+                </div>
+
+                
+                    <div class="hidden-xs hidden-sm attributes-table">
+                       
+
+
+
+
+
+
+
+
+
+                    </div>
+                
+
+                <div class="resource-additional-info col-xs-12 col-md-12 row" style="width: 102% !important;">
+                    <h2 class="title-h">Información adicional</h2>
+
+                    
+                        <div class="resource-additional col-xs-12">
+                            <div class="col-xs-4 key">
+                                Responsable
+                            </div>
+                            <div class="col-xs-8 value">
+                                Sistema de Información Cultural de la Argentina - Ministerio de Cultura de la Nación
+                            </div>
+                        </div>
+                    
+
+                    
+                        <div class="resource-additional col-xs-12">
+                            <div class="col-xs-4 key">
+                                Formato
+                            </div>
+                            <div class="col-xs-8 value">
+                                
+                                <span class="label" data-format="csv">csv</span>
+                            </div>
+                        </div>
+                    
+
+
+                    
+                        <div class="resource-additional col-xs-12">
+                            <div class="col-xs-4 key">
+                                Temas
+                            </div>
+                                    Educación, cultura y deportes
+                        </div>
+                    
+
+                    
+                        
+                            
+                                <div class="resource-additional col-xs-12">
+                                    <div class="col-xs-4 key">
+                                        Frecuencia de actualización
+                                    </div>
+                                    <div class="col-xs-8 value">
+                                        Anualmente
+                                    </div>
+                                </div>
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                    
+
+
+                    <div class="resource-additional col-xs-12">
+                        <div class="col-xs-4 key">
+                            Fecha de creación
+                        </div>
+                        <div class="col-xs-8 value">
+                            
+                                2 de marzo de 2018
+                            
+                        </div>
+                    </div>
+
+                    <div class="resource-additional col-xs-12">
+                        <div class="col-xs-4 key">
+                            Último cambio
+                        </div>
+                        <div class="col-xs-8 value">
+                            
+                                16 de julio de 2018
+                            
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+                
+
+                
+                    <div class="resource-alternative-packages col-xs-12 col-md-12 row" style="border-bottom: 0; width: 103%;">
+                        <h2 class="title-h">Otros recursos de este dataset</h2>
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_456d1087-87f9-4e27-9c9c-1d9734c7e51d">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/456d1087-87f9-4e27-9c9c-1d9734c7e51d/download/biblioteca_especializada.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_456d1087-87f9-4e27-9c9c-1d9734c7e51d">
+        <div class="package-info">
+
+            <h3>Bibliotecas Especializadas</h3>
+
+            <p>Es una institución cuya principal función consiste en mantener colecciones especializadas en diferentes áreas del conocimiento, económico, educativo,...</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/01c6c048-dbeb-44e0-8efa-6944f73715d7/download/biblioteca_popular.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7">
+        <div class="package-info">
+
+            <h3>Bibliotecas Populares</h3>
+
+            <p>Asociación civil autónoma, creada por la vocación solidaria de un grupo de vecinos de una localidad o barrio con el fin de brindar información,...</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_8d0b7f33-d570-4189-9961-9e907193aebc">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/8d0b7f33-d570-4189-9961-9e907193aebc/download/casas_bicentenario.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_8d0b7f33-d570-4189-9961-9e907193aebc">
+        <div class="package-info">
+
+            <h3>Casas del Bicentenario</h3>
+
+            <p>Una Casa del Bicentenario es un centro cultural construido por el Estado Nacional cuya finalidad es promover la inclusión social y el fortalecimiento...</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_392ce1a8-ef11-4776-b280-6f1c7fae16ae">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/392ce1a8-ef11-4776-b280-6f1c7fae16ae/download/cine.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_392ce1a8-ef11-4776-b280-6f1c7fae16ae">
+        <div class="package-info">
+
+            <h3>Salas de Cine</h3>
+
+            <p>Una sala de cine es un establecimiento donde se desarrolla con regularidad la proyección de películas para un significativo número de espectadores....</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_87ebac9c-774c-4ef2-afa7-044c41ee4190">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/87ebac9c-774c-4ef2-afa7-044c41ee4190/download/teatro.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_87ebac9c-774c-4ef2-afa7-044c41ee4190">
+        <div class="package-info">
+
+            <h3>Salas de Teatro</h3>
+
+            <p>Establecimiento en donde se desarrolla con regularidad actividad escénica con participación directa o tácita de los intérpretes y/o asistentes....</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_5a03b397-a27a-4404-a2ec-d5cce6d1bff2">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/5a03b397-a27a-4404-a2ec-d5cce6d1bff2/download/monumentos-y-lugares-historicos.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_5a03b397-a27a-4404-a2ec-d5cce6d1bff2">
+        <div class="package-info">
+
+            <h3>Monumentos y lugares históricos</h3>
+
+            <p>Un monumento y/o lugar histórico es un edificio público o privado, monumento, obra de arte o localización que por su importancia histórica, cultural...</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_ed0555f9-073a-42bf-9965-1d66108645c5">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/ed0555f9-073a-42bf-9965-1d66108645c5/download/galerias_arte.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_ed0555f9-073a-42bf-9965-1d66108645c5">
+        <div class="package-info">
+
+            <h3>Galerías de arte </h3>
+
+            <p>establecimiento donde se desarrolla con regularidad la exhibición, promoción y/o venta de obras de arte (pintura, escultura, dibujo, grabado,...</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_0e9a431c-b4f7-455b-aa1a-f419b5740900">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/0e9a431c-b4f7-455b-aa1a-f419b5740900/download/centros_culturales.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_0e9a431c-b4f7-455b-aa1a-f419b5740900">
+        <div class="package-info">
+
+            <h3>Centros Culturales</h3>
+
+            <p>espacio no convencional y/o multifuncional en el que se realizan manifestaciones artísticas de cualquiera tipología, como espectáculos, funciones,...</p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                            
+                                
+                                    
+                                
+                                
+
+<div class="pkg-container">
+    <div class="pkg-actions">
+        <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_ee6ec36e-e4f2-42a0-adb8-525f0cb93c87">
+            <button>CONSULTAR</button>
+        </a>
+        <a href="https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/ee6ec36e-e4f2-42a0-adb8-525f0cb93c87/download/libreria.csv">
+            <button>DESCARGAR</button>
+        </a>
+    </div>
+    <a href="/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_ee6ec36e-e4f2-42a0-adb8-525f0cb93c87">
+        <div class="package-info">
+
+            <h3>Librerías </h3>
+
+            <p>establecimiento cuya actividad incluye la comercialización minorista de libros nuevos y/o usados. </p>
+        </div>
+
+        <div class="pkg-file-img" data-format="csv">
+            <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 75" style="enable-background:new 0 0 60 75;" xml:space="preserve">
+<path class="st0" d="M7.5,0C3.4,0,0,3.4,0,7.5l0,60C0,71.6,3.3,75,7.5,75h45c4.1,0,7.5-3.4,7.5-7.5v-45L37.5,0H7.5z M36.8,23.2V2.6
+	l20.6,20.6H36.8z"/>
+</svg>
+            <p>csv</p>
+        </div>
+    </a>
+</div>
+                            
+                        
+                    </div>
+                
+            
+            </div>
+        </div>
+    </div>
+    
+
+            <div id="footer" class="container-fluid">
+    <div class="restricted-max-width">
+        <div id="footer-spacer" class="col-xs-10 col-xs-offset-1">
+            <div class="footer-section logo col-xs-12 col-sm-6 col-md-6">
+                <p>
+                    
+                    
+                    
+                        <a href="https://twitter.com/datosgobar" target="_blank" class="social-link">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        </a>
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <a href="https://github.com/datosgobar" target="_blank" class="social-link">
+                            <i class="fa fa-github-alt" aria-hidden="true"></i>
+                        </a>
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <a href="https://medium.com/datos-argentina" target="_blank" class="social-link">
+                            <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                        </a>
+                    
+
+                    
+                </p>
+                <div class="logo-edit-container">
+                    
+                    
+                    <a href="http://datos.gob.ar/" target="_blank">
+                        <img src="/user_images/logo_argentina_unida.svg" alt="http://datos.gob.ar/" class="logo-ministerio">
+                    </a>
+                    
+                </div>
+            </div>
+            <div class="footer-section links-internos hidden-xs hidden-sm col-md-3">
+                
+                
+                    <p><a href="/acerca/seccion/Public%C3%A1%20datos">Publicá datos</a></p>
+               
+                    <p><a href="/acerca/seccion/Herramientas">Herramientas</a></p>
+               
+                    <p><a href="/acerca/seccion/Indicadores">Indicadores</a></p>
+               
+                    <p><a href="/acerca/seccion/Marco%20legal">Marco legal</a></p>
+               
+                    <p><a href="/acerca/seccion/Glosario">Glosario</a></p>
+               
+            </div>
+            <div class="footer-section links-externos col-xs-12 col-sm-6 col-md-3">
+                
+                
+                    <p><a href="mailto:datosargentina@jefatura.gob.ar">Contactanos</a></p>
+                
+                <p class="ckan-link">
+                    Desarrollado por<br><a href="https://github.com/datosgobar/distribuible.datos.gob.ar" target="_blank">Andino</a> con <a href="http://ckan.org/" target="_blank"><span class="ckan-name">CKAN</span></a>
+                </p>
+                <p class="ckan-link">
+                    Versión: 2.6.3
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+            
+            <script type="application/ld+json">
+            {
+    "@context": {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "schema": "http://schema.org/",
+        "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@graph": [
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d",
+            "@type": "schema:DataDownload",
+            "schema:description": "Es una instituci\u00f3n permanente, sin fines de lucro, abierta al p\u00fablico, que adquiere, conserva, estudia, exhibe y comunica el patrimonio material e inmaterial de la humanidad y de su ambiente.",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Museos",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_ee6ec36e-e4f2-42a0-adb8-525f0cb93c87",
+            "@type": "schema:DataDownload",
+            "schema:description": "establecimiento cuya actividad incluye la comercializaci\u00f3n minorista de libros nuevos y/o usados. ",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Librer\u00edas ",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/ee6ec36e-e4f2-42a0-adb8-525f0cb93c87/download/libreria.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_87ebac9c-774c-4ef2-afa7-044c41ee4190",
+            "@type": "schema:DataDownload",
+            "schema:description": "Establecimiento en donde se desarrolla con regularidad actividad esc\u00e9nica con participaci\u00f3n directa o t\u00e1cita de los int\u00e9rpretes y/o asistentes. ",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Salas de Teatro",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/87ebac9c-774c-4ef2-afa7-044c41ee4190/download/teatro.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7",
+            "@type": "schema:DataDownload",
+            "schema:description": "Asociaci\u00f3n civil aut\u00f3noma, creada por la vocaci\u00f3n solidaria de un grupo de vecinos de una localidad o barrio con el fin de brindar informaci\u00f3n, educaci\u00f3n, recreaci\u00f3n y animaci\u00f3n socio-cultural.",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Bibliotecas Populares",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/01c6c048-dbeb-44e0-8efa-6944f73715d7/download/biblioteca_popular.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f",
+            "@type": "schema:Dataset",
+            "schema:dateModified": "2021-11-15T15:40:39.495724",
+            "schema:datePublished": "2018-03-02T13:29:59.732011",
+            "schema:description": "Bases georreferenciadas de Espacios Culturales. \r\nSe incluyen a aquellos espacios f\u00edsicos, con diverso grado de formalidad e institucionalizaci\u00f3n, en donde se realizan con asiduidad y continuidad actividades culturales de diversa \u00edndole.",
+            "schema:distribution": [
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_87ebac9c-774c-4ef2-afa7-044c41ee4190"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_456d1087-87f9-4e27-9c9c-1d9734c7e51d"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_392ce1a8-ef11-4776-b280-6f1c7fae16ae"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_5a03b397-a27a-4404-a2ec-d5cce6d1bff2"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_8d0b7f33-d570-4189-9961-9e907193aebc"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_ed0555f9-073a-42bf-9965-1d66108645c5"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_0e9a431c-b4f7-455b-aa1a-f419b5740900"
+                },
+                {
+                    "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_ee6ec36e-e4f2-42a0-adb8-525f0cb93c87"
+                }
+            ],
+            "schema:inLanguage": "spa",
+            "schema:keywords": [
+                "Centros Culturales",
+                "Librerias",
+                "Casas del Bicentenario",
+                "Museos",
+                "Salas de cine",
+                "Teatros",
+                "Bibliotecas Especializadas",
+                "Bibliotecas populares"
+            ],
+            "schema:name": "Mapa Cultural: Espacios Culturales",
+            "schema:publisher": {
+                "@id": "https://datos.gob.ar/organization/9fcc8ffc-3dcc-4437-acc8-72c5b08d8d51"
+            },
+            "schema:spatialCoverage": {
+                "@id": "_:N18fd85dfd4b844fb9af23d411bfdcd62"
+            }
+        },
+        {
+            "@id": "https://datos.gob.ar/organization/9fcc8ffc-3dcc-4437-acc8-72c5b08d8d51",
+            "@type": "schema:Organization",
+            "schema:contactPoint": {
+                "@id": "_:N742ceb70675843c28a0a3dc5ec0bcf15"
+            },
+            "schema:name": "Ministerio de Cultura"
+        },
+        {
+            "@id": "_:N18fd85dfd4b844fb9af23d411bfdcd62",
+            "@type": "schema:Place",
+            "schema:geo": {
+                "@id": "_:N2002fd009a5b4723b2ff4f8ae3bdbdd8"
+            }
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_8d0b7f33-d570-4189-9961-9e907193aebc",
+            "@type": "schema:DataDownload",
+            "schema:description": "Una Casa del Bicentenario es un centro cultural construido por el Estado Nacional cuya finalidad es promover la inclusi\u00f3n social y el fortalecimiento de las identidades locales.",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Casas del Bicentenario",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/8d0b7f33-d570-4189-9961-9e907193aebc/download/casas_bicentenario.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_392ce1a8-ef11-4776-b280-6f1c7fae16ae",
+            "@type": "schema:DataDownload",
+            "schema:description": "Una sala de cine es un establecimiento donde se desarrolla con regularidad la proyecci\u00f3n de pel\u00edculas para un significativo n\u00famero de espectadores. Es abierto al p\u00fablico. Puede ser gratuito o no.",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Salas de Cine",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/392ce1a8-ef11-4776-b280-6f1c7fae16ae/download/cine.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_456d1087-87f9-4e27-9c9c-1d9734c7e51d",
+            "@type": "schema:DataDownload",
+            "schema:description": "Es una instituci\u00f3n cuya principal funci\u00f3n consiste en mantener colecciones especializadas en diferentes \u00e1reas del conocimiento, econ\u00f3mico, educativo, cultural y cient\u00edfico-t\u00e9cnico del pa\u00eds.",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Bibliotecas Especializadas",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/456d1087-87f9-4e27-9c9c-1d9734c7e51d/download/biblioteca_especializada.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_5a03b397-a27a-4404-a2ec-d5cce6d1bff2",
+            "@type": "schema:DataDownload",
+            "schema:description": "Un monumento y/o lugar hist\u00f3rico es un edificio p\u00fablico o privado, monumento, obra de arte o localizaci\u00f3n que por su importancia hist\u00f3rica, cultural o social ha sido declarado como tal por el Estado.",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Monumentos y lugares hist\u00f3ricos",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/5a03b397-a27a-4404-a2ec-d5cce6d1bff2/download/monumentos-y-lugares-historicos.csv"
+        },
+        {
+            "@id": "_:N742ceb70675843c28a0a3dc5ec0bcf15",
+            "@type": "schema:ContactPoint",
+            "schema:contactType": "customer service",
+            "schema:email": "sinca@cultura.gob.ar",
+            "schema:name": "SInCA",
+            "schema:url": "https://datos.gob.ar"
+        },
+        {
+            "@id": "_:N2002fd009a5b4723b2ff4f8ae3bdbdd8",
+            "@type": "schema:GeoShape",
+            "schema:polygon": "[\"ARG\"]"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_0e9a431c-b4f7-455b-aa1a-f419b5740900",
+            "@type": "schema:DataDownload",
+            "schema:description": "espacio no convencional y/o multifuncional en el que se realizan manifestaciones art\u00edsticas de cualquiera tipolog\u00eda, como espect\u00e1culos, funciones, festivales, bailes, exposiciones,  y/o muestras. ",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Centros Culturales",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/0e9a431c-b4f7-455b-aa1a-f419b5740900/download/centros_culturales.csv"
+        },
+        {
+            "@id": "https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/cultura_ed0555f9-073a-42bf-9965-1d66108645c5",
+            "@type": "schema:DataDownload",
+            "schema:description": "establecimiento donde se desarrolla con regularidad la exhibici\u00f3n, promoci\u00f3n y/o venta de obras de arte (pintura, escultura, dibujo, grabado, fotograf\u00eda, artes gr\u00e1ficas e ilustraci\u00f3n, etc). ",
+            "schema:encodingFormat": "CSV",
+            "schema:name": "Galer\u00edas de arte ",
+            "schema:url": "https://datos.cultura.gob.ar/dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/ed0555f9-073a-42bf-9965-1d66108645c5/download/galerias_arte.csv"
+        }
+    ]
+}
+            </script>
+            
+        </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+  
+    
+    <div class="js-hide" data-module="google-analytics"
+      data-module-googleanalytics_resource_prefix="">
+    </div>
+  
+
+
+      
+  <script>document.getElementsByTagName('html')[0].className += ' js';</script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2019-12-02T16:58:12/jquery.min.js"></script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2019-12-02T16:58:12/:bundle:bootstrap/js/bootstrap.min.js;jed.min.js;moment-with-locales.js;select2/select2.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2019-12-02T16:58:12/:bundle:plugins/jquery.inherit.min.js;plugins/jquery.proxy-all.min.js;plugins/jquery.url-helpers.min.js;plugins/jquery.date-helpers.min.js;plugins/jquery.slug.min.js;plugins/jquery.slug-preview.min.js;plugins/jquery.truncator.min.js;plugins/jquery.masonry.min.js;plugins/jquery.form-warning.min.js;sandbox.min.js;module.min.js;pubsub.min.js;client.min.js;notify.min.js;i18n.min.js;main.min.js;modules/select-switch.min.js;modules/slug-preview.min.js;modules/basic-form.min.js;modules/confirm-action.min.js;modules/api-info.min.js;modules/autocomplete.min.js;modules/custom-fields.min.js;modules/data-viewer.min.js;modules/table-selectable-rows.min.js;modules/resource-form.min.js;modules/resource-upload-field.min.js;modules/resource-reorder.min.js;modules/resource-view-reorder.min.js;modules/follow.min.js;modules/activity-stream.min.js;modules/dashboard.min.js;modules/resource-view-embed.min.js;view-filters.min.js;modules/resource-view-filters-form.min.js;modules/resource-view-filters.min.js;modules/table-toggle-more.min.js;modules/dataset-visibility.min.js;modules/media-grid.min.js;modules/image-upload.min.js"></script>
+<script type="text/javascript" src="/fanstatic/ckanext-googleanalytics/:version:2019-12-02T16:58:24/googleanalytics_event_tracking.js"></script>
+<script type="text/javascript" src="/fanstatic/gobar_js/:version:2019-12-02T17:16:31/:bundle:header.js;console_message.js;replace_svg.js;package/resource/resource_view.js;libs/bootstrap_scripts.js;libs/clamp.js;libs/BootstrapMenu.js;forms/custom_popup.js"></script></body>
+</html>

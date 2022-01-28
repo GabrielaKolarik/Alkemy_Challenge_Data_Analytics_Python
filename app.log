@@ -1,0 +1,510 @@
+2022-01-27 11:01:19,584:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:01:19,584:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:01:19,600:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:01:20,131:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:01:20,303:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 58, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:02:02,076:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:02:02,076:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:02:02,076:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:02:02,420:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 11:02:02,603:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 58, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:05:02,064:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:05:02,064:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:05:02,079:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:05:02,480:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 11:05:02,683:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 58, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:07:18,750:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:07:18,766:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:07:18,766:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:07:19,141:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:07:19,281:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:28:39,968:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:28:39,968:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:28:39,968:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:28:40,343:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:28:40,499:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:32:04,134:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:32:04,134:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:32:04,150:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:32:04,572:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:32:04,775:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:37:12,037:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:37:12,037:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:37:12,037:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:37:12,443:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:37:12,771:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:40:31,984:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:40:31,984:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:40:32,000:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:40:32,359:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:40:32,672:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:40:44,932:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:40:44,932:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:40:44,948:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:40:45,260:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:40:45,604:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:41:12,800:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:41:12,800:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:41:12,800:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:41:13,143:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:41:13,439:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:41:23,692:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:41:23,692:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:41:23,708:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:41:24,036:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:41:24,208:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:44:13,822:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:44:13,822:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:44:13,838:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:44:14,275:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:44:14,547:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 60, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:48:07,608:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:48:07,608:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:48:07,608:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:48:07,936:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:48:08,327:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:48:08,467:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 11:49:07,621:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 11:49:07,621:DEBUG:no hay carpetas coincidentes
+2022-01-27 11:49:07,621:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 11:49:07,957:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 11:49:08,363:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 11:49:08,456:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:10:02,176:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:10:02,192:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:10:02,223:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:10:02,910:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:10:03,035:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:10:03,457:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:12:39,291:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:12:39,291:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:12:39,307:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:12:39,666:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:12:39,932:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:12:40,010:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:13:49,514:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:13:49,514:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:13:49,529:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:13:49,920:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:13:50,123:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:13:50,201:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:14:14,227:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:14:14,227:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:14:14,243:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:14:14,571:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:14:14,805:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:14:14,883:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:17:22,676:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:17:22,692:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:17:22,692:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:17:23,067:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:17:23,259:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:17:23,348:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:18:45,729:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:18:45,729:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:18:45,729:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:18:46,088:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:18:46,307:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:18:46,385:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:19:36,175:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:19:36,175:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:19:36,190:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:19:36,550:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:19:36,768:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:19:36,846:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:23:09,932:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:23:09,932:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:23:09,947:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:23:10,307:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:23:10,494:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:23:10,588:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:35:22,549:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:35:22,549:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:35:22,549:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:35:22,986:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:35:23,263:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:35:23,342:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:43:29,921:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:43:29,921:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:43:29,921:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:43:30,358:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:43:30,780:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:43:30,858:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:47:19,298:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:47:19,298:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:47:19,298:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:47:19,658:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:47:19,929:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:47:19,992:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:50:19,258:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:50:19,258:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:50:19,258:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:50:19,664:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:50:19,851:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:50:19,929:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:50:50,600:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:50:50,600:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:50:50,616:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:50:50,881:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:50:51,116:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:50:51,194:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:53:43,846:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:53:43,862:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:53:43,862:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:53:44,143:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:53:44,549:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:53:44,673:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:54:12,720:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:54:12,721:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:54:12,730:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:54:13,021:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 12:54:13,164:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:54:13,256:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:56:29,557:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:56:29,557:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:56:29,557:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:56:29,916:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:56:30,072:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:56:30,134:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 12:59:34,185:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 12:59:34,185:DEBUG:no hay carpetas coincidentes
+2022-01-27 12:59:34,185:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 12:59:34,487:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 12:59:34,659:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 12:59:34,737:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 21:58:38,443:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 21:58:38,443:DEBUG:no hay carpetas coincidentes
+2022-01-27 21:58:38,458:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 21:58:39,692:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 21:58:39,973:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 21:58:40,786:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:03:24,041:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:03:24,041:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:03:24,041:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:03:24,463:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 22:03:24,728:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:03:24,821:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:04:06,461:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:04:06,461:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:04:06,461:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:04:06,867:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 22:04:07,143:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:04:07,237:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:05:38,333:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:05:38,333:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:05:38,348:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:05:38,661:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 22:05:39,005:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:05:39,083:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:07:08,319:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:07:08,319:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:07:08,334:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:07:08,818:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 22:07:09,287:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:07:09,396:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:08:01,484:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:08:01,484:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:08:01,484:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:08:01,953:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-27 22:08:02,806:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:08:02,946:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:09:46,901:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:09:46,901:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:09:46,901:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:09:47,432:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 22:09:48,229:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:09:48,323:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-27 22:18:17,840:DEBUG:Las carpetas se crearon correctamente
+2022-01-27 22:18:17,856:DEBUG:no hay carpetas coincidentes
+2022-01-27 22:18:17,887:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-27 22:18:18,512:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-27 22:18:19,636:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-27-January-2022.csvwb'
+2022-01-27 22:18:20,301:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 10:45:47,843:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 10:45:47,843:DEBUG:no hay carpetas coincidentes
+2022-01-28 10:45:47,890:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 10:45:48,593:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-28 10:45:48,796:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 10:45:49,327:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 10:47:54,564:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 10:47:54,580:DEBUG:no hay carpetas coincidentes
+2022-01-28 10:47:54,611:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 10:47:55,174:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 10:47:55,377:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 10:47:56,126:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 10:48:24,406:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 10:48:24,406:DEBUG:no hay carpetas coincidentes
+2022-01-28 10:48:24,422:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 10:48:24,781:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 10:48:25,016:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 10:48:25,094:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 10:49:10,457:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 10:49:10,457:DEBUG:no hay carpetas coincidentes
+2022-01-28 10:49:10,457:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 10:49:10,941:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 None
+2022-01-28 10:49:12,503:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 10:49:12,597:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 10:53:27,942:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 10:53:28,167:DEBUG:no hay carpetas coincidentes
+2022-01-28 10:53:28,177:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 10:53:28,702:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 10:53:29,004:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 10:53:29,222:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 10:55:30,337:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 10:55:30,337:DEBUG:no hay carpetas coincidentes
+2022-01-28 10:55:30,337:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 10:55:30,697:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 10:55:30,931:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 10:55:31,009:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 11:07:44,164:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 11:07:44,179:DEBUG:no hay carpetas coincidentes
+2022-01-28 11:07:44,226:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 11:07:44,929:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 11:07:45,148:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 11:07:45,570:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 11:16:58,788:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 11:16:58,803:DEBUG:no hay carpetas coincidentes
+2022-01-28 11:16:58,850:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 11:16:59,444:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 11:16:59,704:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 11:17:00,110:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 11:34:37,269:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 11:34:37,301:DEBUG:no hay carpetas coincidentes
+2022-01-28 11:34:37,347:DEBUG:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+2022-01-28 11:34:38,003:DEBUG:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museos.csv HTTP/1.1" 200 307629
+2022-01-28 11:34:38,222:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 11:34:38,659:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 11:45:07,686:DEBUG:Las carpetas se crearon correctamente
+2022-01-28 11:45:07,701:DEBUG:no hay carpetas coincidentes
+2022-01-28 11:45:07,717:DEBUG:Starting new HTTPS connection (1): datos.gob.ar:443
+2022-01-28 11:45:10,055:DEBUG:https://datos.gob.ar:443 "GET /dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d HTTP/1.1" 200 8916
+2022-01-28 11:45:10,102:ERROR:Ocurrio una excepcion [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 55, in <module>
+    open(f'museos/{year}-{month}/ museos-{day}-{month}-{year}.csv'
+FileNotFoundError: [Errno 2] No such file or directory: 'museos/2022-January/ museos-28-January-2022.csvwb'
+2022-01-28 11:45:10,196:DEBUG:Conectado a la base de datos PostgreSQL!
+2022-01-28 12:41:10,548:ERROR:Ha ocurrido una excepciónname 'year' is not defined
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 39, in <module>
+    os.makedirs(f'museos/{year}-{month}', exist_ok=True)
+NameError: name 'year' is not defined
+2022-01-28 12:41:10,564:ERROR:Ha ocurrido una excepción name 'day' is not defined
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 49, in <module>
+    if os.path.isfile(f'museos-{day}-{month}-{year}.csv') is True:
+NameError: name 'day' is not defined
+2022-01-28 12:41:10,564:ERROR:Ha ocurrido una excepciónname 'url_museos' is not defined
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    r_museos = requests.get(url_museos)
+NameError: name 'url_museos' is not defined
+2022-01-28 12:41:11,073:DEBUG:La conexión se ha efectuado exitosamente :)
+2022-01-28 12:44:54,909:ERROR:Ha ocurrido una excepciónname 'year' is not defined
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 39, in <module>
+    os.makedirs(f'museos/{year}-{month}', exist_ok=True)
+NameError: name 'year' is not defined
+2022-01-28 12:44:54,909:ERROR:Ha ocurrido una excepción name 'day' is not defined
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 49, in <module>
+    if os.path.isfile(f'museos-{day}-{month}-{year}.csv') is True:
+NameError: name 'day' is not defined
+2022-01-28 12:44:54,909:ERROR:Ha ocurrido una excepciónname 'url_museos' is not defined
+Traceback (most recent call last):
+  File "C:\Users\kgabr\PycharmProjects\Alkemy-Challenge\desarrollo.py", line 61, in <module>
+    r_museos = requests.get(url_museos)
+NameError: name 'url_museos' is not defined
+2022-01-28 12:44:54,971:DEBUG:La conexión se ha efectuado exitosamente :)
